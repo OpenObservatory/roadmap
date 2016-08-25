@@ -31,7 +31,7 @@ Timeline: May 1st 2016 - May 31st 2017
 
 * [ ] Write design document for data pipeline
 
-* [ ] Implement informed consent in GUI
+* [x] Implement informed consent in GUI
 
 * [ ] Diagnostics for blocking
 
