@@ -33,9 +33,9 @@ Timeline: May 1st 2016 - May 31st 2017
 
 * [x] Implement informed consent in GUI
 
-* [ ] Diagnostics for blocking
+* [x] Diagnostics for blocking
 
-* [ ] Raspberry Pi image for with GUI support
+* [ ] Raspberry Pi image for ooniprobe with GUI support
 
 
 ----
