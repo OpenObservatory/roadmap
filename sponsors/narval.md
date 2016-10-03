@@ -29,14 +29,21 @@ Timeline: May 1st 2016 - May 31st 2017
 
 ## Month 4 - August
 
-* [ ] Write design document for data pipeline
+* [x] Write design document for data pipeline
 
 * [x] Implement informed consent in GUI
 
 * [x] Diagnostics for blocking
 
-* [ ] Raspberry Pi image for ooniprobe with GUI support
+* [x] Raspberry Pi image for ooniprobe with GUI support
 
+## Month 5 - September
+
+* [x] Tests for IM applications
+
+* [x] Establish 5 additional partnerships
+
+* [x] Test lists for additional 5 countries
 
 ----
 
@@ -45,23 +52,15 @@ Timeline: May 1st 2016 - May 31st 2017
 You will also note that it reaches only 10 months instead of 12. This is to
 take into account possible delays in delivering on time.
 
-## Month 5 - September
-
-* [ ] Tests for IM applications
+## Month 6 - October
 
 * [ ] Write specifications for measurements API
-
-* [ ] Establish 5 additional partnerships
-
-* [ ] Test lists for additional 5 countries
-
-* [ ] Mock-ups and assets for Beta GUI of OONI
-
-## Month 6 - October
 
 * [ ] Implement alpha version of measurements API
 
 * [ ] Beta of pipeline with ETL + backend to pipeline MQ
+
+* [ ] Mock-ups and assets for Beta GUI of OONI
 
 ## Month 7 - November
 
