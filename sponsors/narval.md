@@ -45,22 +45,12 @@ Timeline: May 1st 2016 - May 31st 2017
 
 * [x] Test lists for additional 5 countries
 
-----
-
-**Attention** everything below is in the future and is subject to change and reorganisation.
-
-You will also note that it reaches only 10 months instead of 12. This is to
-take into account possible delays in delivering on time.
-
 ## Month 6 - October
 
-* [ ] Write specifications for measurements API
+* [x] Write specifications for measurements API
 
-* [ ] Implement alpha version of measurements API
+* [x] Implement alpha version of measurements API
 
-* [ ] Beta of pipeline with ETL + backend to pipeline MQ
-
-* [ ] Mock-ups and assets for Beta GUI of OONI
 
 ## Month 7 - November
 
@@ -72,6 +62,15 @@ take into account possible delays in delivering on time.
 
 * [ ] Data visualisations for reports and blogs
 
+* [ ] Beta of pipeline with ETL + backend to pipeline MQ
+
+----
+
+**Attention** everything below is in the future and is subject to change and reorganisation.
+
+You will also note that it reaches only 10 months instead of 12. This is to
+take into account possible delays in delivering on time.
+
 ## Month 8 - December
 
 * [ ] PoC for orchestrator in probe
@@ -81,6 +80,8 @@ take into account possible delays in delivering on time.
 * [ ] Blogs and reports from first 5 countries
 
 * [ ] Data visualisations for measurements interface
+
+* [ ] Mock-ups and assets for Beta GUI of OONI
 
 ## Month 9 - January
 
