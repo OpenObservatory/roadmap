@@ -43,62 +43,76 @@ Timeline: May 1st 2016 - May 31st 2017
 
 * [x] Establish 5 additional partnerships
 
-* [x] Test lists for additional 5 countries
 
 ## Month 6 - October
+
+
+## Month 7 - November
 
 * [x] Write specifications for measurements API
 
 * [x] Implement alpha version of measurements API
 
-
-## Month 7 - November
-
-* [ ] Beta release of GUI
-
-* [ ] Write specification for probe orchestration mechanism
-
-* [ ] Proof of Concept orchestrator backend
-
-* [ ] Data visualisations for reports and blogs
-
-* [ ] Beta of pipeline with ETL + backend to pipeline MQ
-
-----
-
-**Attention** everything below is in the future and is subject to change and reorganisation.
-
-You will also note that it reaches only 10 months instead of 12. This is to
-take into account possible delays in delivering on time.
+* [x] Beta release of GUI
 
 ## Month 8 - December
 
-* [ ] PoC for orchestrator in probe
+* [x] Mock-ups and assets for Beta GUI of OONI
 
-* [ ] Stable release of GUI
+* [x] Test lists for additional 5 countries
 
-* [ ] Blogs and reports from first 5 countries
+* [x] Blogs and reports from first 5 countries
 
-* [ ] Data visualisations for measurements interface
-
-* [ ] Mock-ups and assets for Beta GUI of OONI
 
 ## Month 9 - January
 
-* [ ] Beta release of measurements API
+* [x] Write specification for probe orchestration mechanism
+
+## Month 10 - February
+
+**Attention** everything below is in the future and is subject to change and reorganisation.
+
+---
+
+## Month 11 - March
+
+* [ ] Stable release of GUI
+
+* [ ] Beta of pipeline with ETL + backend to pipeline MQ
+
+## Month 12 - April
+
+* [ ] Stable release of Raspberry Pi
+
+* [ ] Proof of Concept orchestrator backend
+
+* [ ] PoC for orchestrator in probe
+
+* [ ] Blogs and reports from additional 5 countries
+
+## Month 13 - May
 
 * [ ] Research into other methods of reducing fingerprintability of probe
 
 * [ ] Beta release of orchestrator
 
-## Month 10 - February
+## Month 14 - June
+
+* [ ] Beta release of measurements API
+
+* [ ] Stable release of Orchestrator
+
+* [ ] Data visualisations for reports and blogs
+
+## Month 15 - July
+
+* [ ] Data visualisations for measurements interface
 
 * [ ] Stable release of ETL pipeline
 
 * [ ] Stable release of measurements API
 
-* [ ] Stable release of Orchestrator
+## Month 16 - August
 
-* [ ] Stable release of Raspberry Pi
 
-* [ ] Blogs and reports from additional 5 countries
+
