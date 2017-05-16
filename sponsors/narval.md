@@ -1,7 +1,7 @@
 # Sponsor Narval
 
-Duration: 12 months
-Timeline: May 1st 2016 - May 31st 2017
+Duration: 16 months
+Timeline: May 1st 2016 - August 30th 2017
 
 ## Month 1 - May
 
