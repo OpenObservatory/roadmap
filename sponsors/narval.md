@@ -70,25 +70,24 @@ Timeline: May 1st 2016 - May 31st 2017
 
 ## Month 10 - February
 
-**Attention** everything below is in the future and is subject to change and reorganisation.
-
----
 
 ## Month 11 - March
 
-* [ ] Stable release of GUI
+* [x] Stable release of GUI
 
-* [ ] Beta of pipeline with ETL + backend to pipeline MQ
+* [x] Beta of pipeline with ETL + backend to pipeline MQ
 
 ## Month 12 - April
 
-* [ ] Stable release of Raspberry Pi
+* [x] Stable release of Raspberry Pi
 
-* [ ] Proof of Concept orchestrator backend
+* [x] Proof of Concept orchestrator backend
 
-* [ ] PoC for orchestrator in probe
+* [x] PoC for orchestrator in probe
 
-* [ ] Blogs and reports from additional 5 countries
+**Attention** everything below is in the future and is subject to change and reorganisation.
+
+---
 
 ## Month 13 - May
 
@@ -111,6 +110,8 @@ Timeline: May 1st 2016 - May 31st 2017
 * [ ] Stable release of ETL pipeline
 
 * [ ] Stable release of measurements API
+
+* [ ] Blogs and reports from additional 5 countries
 
 ## Month 16 - August
 
