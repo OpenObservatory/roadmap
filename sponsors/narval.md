@@ -85,10 +85,6 @@ Timeline: May 1st 2016 - May 31st 2017
 
 * [x] PoC for orchestrator in probe
 
-**Attention** everything below is in the future and is subject to change and reorganisation.
-
----
-
 ## Month 13 - May
 
 * [ ] Research into other methods of reducing fingerprintability of probe
