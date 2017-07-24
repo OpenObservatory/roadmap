@@ -87,19 +87,19 @@ Timeline: May 1st 2016 - August 30th 2017
 
 ## Month 13 - May
 
-* [ ] Research into other methods of reducing fingerprintability of probe
+* [x] Research into other methods of reducing fingerprintability of probe
 
-* [ ] Beta release of orchestrator
+* [x] Beta release of orchestrator
 
 ## Month 14 - June
 
-* [ ] Beta release of measurements API
+* [x] Beta release of measurements API
+
+## Month 15 - July
 
 * [ ] Stable release of Orchestrator
 
 * [ ] Data visualisations for reports and blogs
-
-## Month 15 - July
 
 * [ ] Data visualisations for measurements interface
 
@@ -111,5 +111,6 @@ Timeline: May 1st 2016 - August 30th 2017
 
 ## Month 16 - August
 
+## Month 17 - September
 
 
